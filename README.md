@@ -6,7 +6,9 @@
 ### <div align="center">I'm Mahendra Singh Pharswan </div>  
   
 
-- 🔭 I’m currently working on [Tune Talk](https://www.tune-talk.vercel.app) and my other side projects  
+- 🔭 I’m currently working on [Tune Talk](https://www.tune-talk.vercel.app) and my other side projects
+
+- 👨‍💻 Previously worked for Alexa @Amazon, @Veritas
   
 
 - 🌱 I’m currently learning Node.js and Next.js  
