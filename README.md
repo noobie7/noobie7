@@ -75,7 +75,7 @@
 
 ## Github Stats  
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api?username=noobie7&show_icons=true&count_private=true&hide_border=true" align="center" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=noobie7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobie7&hide_border=true&layout=compact" align="center" />  
 </div>
 
