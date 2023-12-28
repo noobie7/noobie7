@@ -82,10 +82,6 @@
 
 <br/>
 
-## Vistor Count
-<div>
-  
-</div>
 
 
 ## Connect with me  
