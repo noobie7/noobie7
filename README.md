@@ -15,7 +15,8 @@
   
 
 - ⚡ Fun fact: AI won't be replacing me 'cuz my code has errors   
-  
+
+- 🔍 <img src="https://komarev.com/ghpvc/?username=noobie7&color=blueviolet" align="center" />
 
 <br/>  
 
@@ -81,6 +82,10 @@
 
 <br/>
 
+## Vistor Count
+<div>
+  
+</div>
 
 
 ## Connect with me  
